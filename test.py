@@ -3,7 +3,7 @@ from pydantic import BaseModel
 from lru_cache import LRUCache
 import google.generativeai as genai
 from fastapi.middleware.cors import CORSMiddleware
-genai.configure(api_key="AIzaSyBKiC-ji6_0LlZICeLUCHDIh3TBNDE4McE")
+genai.configure(api_key="niggers paste your api key here")
 
 app = FastAPI()
 
