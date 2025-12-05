@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "name": "GCC",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:\\Users\\Skanda\\AppData\\Roaming\\Python\\Python313\\site-packages\\pybind11\\include",
+                "C:\\Python313\\Include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "D:\\msys64\\ucrt64\\bin\\g++.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}/**",
+                    "C:\\Users\\Skanda\\AppData\\Roaming\\Python\\Python313\\site-packages\\pybind11\\include"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": "" 
+            }
+        }
+    ],
+    "version": 4
+}
